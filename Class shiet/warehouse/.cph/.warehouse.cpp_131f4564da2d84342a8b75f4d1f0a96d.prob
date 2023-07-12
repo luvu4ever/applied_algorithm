@@ -1,0 +1,1 @@
+{"name":"Local: warehouse","url":"e:\\Work\\Coding\\AA\\Class shiet\\warehouse\\warehouse.cpp","tests":[{"id":1687503805000,"input":"6 6 2\n6 8 5 10 11 6\n1 2 2 3 3 2","output":"24"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Work\\Coding\\AA\\Class shiet\\warehouse\\warehouse.cpp","group":"local","local":true}

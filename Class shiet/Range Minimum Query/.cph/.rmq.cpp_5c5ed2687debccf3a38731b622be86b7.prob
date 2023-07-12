@@ -1,0 +1,1 @@
+{"name":"Local: rmq","url":"e:\\Work\\Coding\\AA\\Class shiet\\Range Minimum Query\\rmq.cpp","tests":[{"id":1685384870057,"input":"16\n2 4 6 1 6 8 7 3 3 5 8 9 1 2 6 4\n4\n1 5\n0 9\n1 15\n6 10","output":"6"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Work\\Coding\\AA\\Class shiet\\Range Minimum Query\\rmq.cpp","group":"local","local":true}

@@ -37,15 +37,16 @@ main()
 {
     // freopen("inp.txt", "r", stdin);
     // freopen("out.txt", "w", stdout);
+    ios_base::sync_with_stdio(false); cin.tie(NULL); cout.tie(NULL);
     int n, M;
     cin >> n >> M;
     f1(i, n)
         cin>>a[i];
     f[n+1] = 0;
+    sort(a+1 ,a+n+1, cmp);
     for(int i = n; i>0; --i){
         f[i] = f[i+1] + a[i];
     }
-    sort(a+1 ,a+n+1, cmp);
     Recursion(1, n, M);
     cout << cnt;
     return 0;
